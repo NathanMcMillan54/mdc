@@ -2,4 +2,4 @@
 
 A Markdown Compiler
 
-Links don't work yet (yet)
+Links don't work yet
