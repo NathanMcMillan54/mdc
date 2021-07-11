@@ -1,2 +1,5 @@
-# mdc
-Markdown Compiler
+# MDC
+
+A Markdown Compiler
+
+Links don't work yet (yet)
